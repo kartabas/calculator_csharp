@@ -1,0 +1,11 @@
+C:\Users\Саша\source\repos\Big Projects\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Саша\source\repos\Big Projects\calc\calc\bin\Debug\calc.exe
+C:\Users\Саша\source\repos\Big Projects\calc\calc\bin\Debug\calc.pdb
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.exe
+C:\Users\Саша\source\repos\Big Projects\calc\calc\obj\Debug\calc.pdb
